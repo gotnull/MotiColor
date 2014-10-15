@@ -24,6 +24,7 @@
  */
 
 #include "MotiColor.h"
+#include <math.h>
 
 /*
  * @brief Default constructor, sets R, G, B to be equal to 0
